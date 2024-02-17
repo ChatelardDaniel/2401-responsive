@@ -34,7 +34,7 @@ button {
     display: none;
 }
 
-/* Cacher le burger en fonction de la taille de l'écran */
+/* Cacher le burger */
 @media screen and (min-width: 600px) {
     .header__burger {
         display: none;
