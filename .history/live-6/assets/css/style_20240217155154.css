@@ -23,7 +23,7 @@ button {
 
 /* HEADER */
 
-/* Mettre de l'espace entre mes éléments du header */
+/* Mettre de l'espace entre mes éléments du*/
 .header {
     display: flex;
     justify-content: space-between;
